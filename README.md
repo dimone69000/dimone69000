@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis Dimitri</h1>
+<h1 align="center">Salut, je suis Dimitri, j'ai pour objectif de devenir développeur web front-end</h1>
 <h3 align="center">Actuellement en formation développeur web / web mobile (27/09/2022 - 13/09/2023)</h3>
 
 - 🔭 I’m currently working on [Projet collectif de CV en ligne](https://recrute1developpeur.github.io/index.html)
