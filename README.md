@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Projet collectif de CV en ligne](https://recrute1developpeur.github.io/index.html)
 
-- 🔭 I’m currently working on [Mon CV en ligne](https://dimone69000.github.io/Cv-en-ligne/)
-
 - 📫 How to reach me **dimitri-bonnet@hotmail.fr**
 
 <h3 align="left">Connect with me:</h3>
